@@ -1,6 +1,6 @@
 # Registro de Ponto
 
-<img style='width: 70%' src="">
+<img style='width: 70%' src="https://servidor-estatico-tan.vercel.app/ponto.png">
 
 Projeto Registro de Ponto desenvolvido em **Python 3.11.2**, com interface gráfica em **PySide6**.
 Utilizado **PyInstaller** para realizar o empacotamento da aplicação.
@@ -47,11 +47,11 @@ Siga estas etapas a seguir para configurar o ambiente de desenvolvimento:
 
 1. Clone este repositório em sua máquina local.
 
-    **``git clone https://github.com/guicamargo19/registro_de_ponto.git`**
+    **``git clone https://github.com/guicamargo19/registro_de_ponto.git``**
 
 2. Navegue até o diretório clonado e abra no VSCode.
     
-    **``cd ponto``**
+    **``cd registro_de_ponto``**
 
 3. Certifique-se de que a versão do Python global é a 3.11.2
 
